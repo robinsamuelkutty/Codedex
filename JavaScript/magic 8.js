@@ -1,7 +1,4 @@
-// Write code below 💖
 
-// Magic 8 Ball 🎱
-// Codédex
 
 const question = "Put question string here";
 
